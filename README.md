@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Wenny Chandra Sari
 
 <!--
 **WennyCS/WennyCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data maniac who interested in Data Science, Data Analytics, Machine Learning and Artificial Intelligence.
+
+<!-- You can contact me by:
+
+linkedin gmail -->
+
+The language and tools that I use:
+
+Python, Numpy, Matplotlib, Seaborn, Pandas, Scikit-Learn, TensorFlow, SQL, Git, GitHub, Docker, PySpark, Airflow, Streamlit, HuggingFace, NLTK, Lookerstudio.
