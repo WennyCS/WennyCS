@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data maniac who interested in Data Science, Data Analytics, Machine Learning and Artificial Intelligence.
+I'm a data braimaniac who interested in Data Science, Data Analytics, Machine Learning and Artificial Intelligence.
 
 Hoping that my projects can give you insight ✨✨!
 
